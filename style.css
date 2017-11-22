@@ -1,0 +1,45 @@
+body{
+    background-color:  lightcoral;
+}
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0 px;
+    margin-bottom: 0 px;
+    text-align: center;
+    width: 80%;
+    box-shadow: 5px -5px black;
+}
+.logo{
+    height: 150px;
+    background-color: yellow;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.nav{
+    height: 100px;
+    background-color: cadetblue;
+    margin: 3px;
+}
+.contA{
+    height: 300px;
+    background-color: paleturquoise;
+    width:30%;
+    float: left;
+    
+}
+.contB{
+    height: 300px;
+    background-color: green;
+    width:70%;
+    float: right;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color:  bisque; 
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    float: left;
+    margin: 3px;
+}
